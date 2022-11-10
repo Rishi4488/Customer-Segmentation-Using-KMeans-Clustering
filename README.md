@@ -12,6 +12,8 @@ The data was collected from a well known e-commerce website over aperiod of time
 
 ## Objective:
 ● Data pre-processing including missing value treatment
+
+
 ● Segmenting customer based on the optimum number of clusters (‘k’)
 with the help of silhouette score and pca to increase interpretability yet, at the same time, to minimizes information loss
 
